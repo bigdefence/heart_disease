@@ -1,5 +1,7 @@
-# WASSUP_Project_Team7_2
-# Heart Disease Prediction
+# 심장 질병 예측 프로그램<br/>
+
+## :alarm_clock: 개발 기간: 2월 21일(목) ~ 3월 7일(수)
+
 
 ![image](image/소개.png)
 ![image](image/과정.png)
